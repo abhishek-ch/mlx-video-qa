@@ -2,6 +2,10 @@
 
 Explore the capabilities of the MLX library and leverage the genAI stack on MacOS to interact with any video.
 
+
+https://github.com/abhishek-ch/mlx-video-qa/assets/7579608/2ea1f5e7-d445-4b6b-a1c8-11d1003b35af
+
+
 ## Key Features
 
 1. **Versatile Video Loading:** Import videos directly or use YouTube for easy access.
